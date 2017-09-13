@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AroundU</string>
+    <string name="hello_world">HELLO sb</string>
+    <string name="login">登陆</string>
+    <string name="register">注册</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="around">Around</string>
+    <string name="userId">账号:</string>
+    <string name="passWord">密码:</string>
+    <string name="loginId">abc</string>
+    <string name="loginPw">123</string>
+    <string name="calling">打电话</string>
+    <string name="browser">浏览器</string>
+    <string name="quit">退出</string>
+</resources>
